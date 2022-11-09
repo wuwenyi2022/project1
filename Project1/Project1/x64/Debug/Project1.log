@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(467,10): warning C4101: “v”: 未引用的局部变量
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(772,101): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(772,71): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(772,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(773,101): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(773,71): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\half_edge_structure.h(773,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\main.cpp(78,17): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\ZJU\source\repos\Project1\Project1\main.cpp(79,17): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  Project1.vcxproj -> D:\ZJU\source\repos\Project1\x64\Debug\Project1.exe
